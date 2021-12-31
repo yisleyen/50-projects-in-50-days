@@ -8,5 +8,6 @@
  1. [Hidden Search Widget](https://github.com/yisleyen/50-projects-in-50-days/tree/master/04-hidden-search-widget)
  1. [Blurry Loading](https://github.com/yisleyen/50-projects-in-50-days/tree/master/05-blurry-loading)
  1. [Scroll Animation](https://github.com/yisleyen/50-projects-in-50-days/tree/master/06-scroll-animation)
+ 1. [Split Landing Page](https://github.com/yisleyen/50-projects-in-50-days/tree/master/07-split-landing-page)
 
 You can reach the [course](https://50projects50days.com/) here
