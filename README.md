@@ -9,5 +9,6 @@
  1. [Blurry Loading](https://github.com/yisleyen/50-projects-in-50-days/tree/master/05-blurry-loading)
  1. [Scroll Animation](https://github.com/yisleyen/50-projects-in-50-days/tree/master/06-scroll-animation)
  1. [Split Landing Page](https://github.com/yisleyen/50-projects-in-50-days/tree/master/07-split-landing-page)
+ 1. [Form Input Wave](https://github.com/yisleyen/50-projects-in-50-days/tree/master/08-form-wave)
 
 You can reach the [course](https://50projects50days.com/) here
