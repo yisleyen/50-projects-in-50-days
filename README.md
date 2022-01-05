@@ -11,5 +11,6 @@
  1. [Split Landing Page](https://github.com/yisleyen/50-projects-in-50-days/tree/master/07-split-landing-page)
  1. [Form Input Wave](https://github.com/yisleyen/50-projects-in-50-days/tree/master/08-form-wave)
  1. [Sound Boards](https://github.com/yisleyen/50-projects-in-50-days/tree/master/09-sound-board)
+ 1. [Dad Jokes](https://github.com/yisleyen/50-projects-in-50-days/tree/master/10-dad-jokes)
 
 You can reach the [course](https://50projects50days.com/) here
