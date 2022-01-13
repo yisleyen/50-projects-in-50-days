@@ -15,5 +15,6 @@
  1. [Event KeyCodes](https://github.com/yisleyen/50-projects-in-50-days/tree/master/11-event-keycodes)
  1. [Faq collapse](https://github.com/yisleyen/50-projects-in-50-days/tree/master/12-faq-collapse)
  1. [Random choice picker](https://github.com/yisleyen/50-projects-in-50-days/tree/master/13-random-choice-picker)
+ 1. [Animated navigation](https://github.com/yisleyen/50-projects-in-50-days/tree/master/14-animated-navigation)
  
 You can reach the [course](https://50projects50days.com/) here
