@@ -19,5 +19,6 @@
  1. [Incrementing counter](https://github.com/yisleyen/50-projects-in-50-days/tree/master/15-incrementing-counter)
  1. [Button ripple effect](https://github.com/yisleyen/50-projects-in-50-days/tree/master/16-button-ripple-effect)
  1. [Drag n drop](https://github.com/yisleyen/50-projects-in-50-days/tree/master/17-drag-n-drop)
+ 1. [Toast notification](https://github.com/yisleyen/50-projects-in-50-days/tree/master/18-toast-notification)
  
 You can reach the [course](https://50projects50days.com/) here
