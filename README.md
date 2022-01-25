@@ -20,5 +20,6 @@
  1. [Button ripple effect](https://github.com/yisleyen/50-projects-in-50-days/tree/master/16-button-ripple-effect)
  1. [Drag n drop](https://github.com/yisleyen/50-projects-in-50-days/tree/master/17-drag-n-drop)
  1. [Toast notification](https://github.com/yisleyen/50-projects-in-50-days/tree/master/18-toast-notification)
+ 1. [Auto text effect](https://github.com/yisleyen/50-projects-in-50-days/tree/master/19-auto-text-effect)
  
 You can reach the [course](https://50projects50days.com/) here
