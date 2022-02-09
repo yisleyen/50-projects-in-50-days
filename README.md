@@ -25,5 +25,6 @@
  1. [Todo list](https://github.com/yisleyen/50-projects-in-50-days/tree/master/21-todo-list) 
  1. [Hoverboard](https://github.com/yisleyen/50-projects-in-50-days/tree/master/22-hoverboard)
  1. [Live user filter](https://github.com/yisleyen/50-projects-in-50-days/tree/master/23-live-user-filter)
+ 1. [Netflix mobile navigation](https://github.com/yisleyen/50-projects-in-50-days/tree/master/24-netflix-mobile-navigation)
 
 You can reach the [course](https://50projects50days.com/) here
